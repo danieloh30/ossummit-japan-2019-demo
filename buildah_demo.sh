@@ -390,7 +390,7 @@ buildah_using_from_scratch
 
 run_image_in_docker
 
-# buildah_from_dockerfile
+buildah_from_dockerfile
 
 # clean_images_and_containers
 
