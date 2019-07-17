@@ -271,7 +271,7 @@ EOF
 import sys
 def main(argv):
     for i in range(0,10):
-        print ("Hello World from Container in EC2 Sydney! Message # [%d]" % i)
+        print ("Hello World from Container in Open Source Summit Japan 2019! Message # [%d]" % i)
 if __name__ == "__main__":
     main(sys.argv[1:])
 EOF
